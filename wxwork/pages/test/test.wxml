@@ -1,0 +1,6 @@
+<canvas type="webgl" id="webgltest" canvas-id="webgltest"
+  style="position:fixed;top:0;width:{{canvasWidth}}px;height:{{canvasHeight}}px;z-index:1;">
+</canvas>
+<camera mode="normal" device-position="back" flash="auto" frame-size="medium"
+  style="position:fixed;top:0;width:100%;height:100%;z-index:0;">
+</camera>
